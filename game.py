@@ -1,5 +1,4 @@
 import pygame
-import time
 from random import seed
 from random import randint
 pygame.init()
